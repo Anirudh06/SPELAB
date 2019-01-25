@@ -1,3 +1,7 @@
 First Line "Hello World"
+<<<<<<< HEAD
 New Line Added BY Master
 New Line Added BY Team 2
+=======
+Line Added By Team 1
+>>>>>>> team1
